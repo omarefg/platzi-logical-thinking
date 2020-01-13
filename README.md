@@ -33,7 +33,7 @@ En la siguiente [imagen](#img1) tenemos diferentes tipos de cabello, las variabl
 - El color
 - 
 
-<figure name="img1">
+<figure id="img1">
     <img src="assets/hair.png" alt="Hair"/>
     <figcaption>Img 1 - Cabello</figcaption>
 </figure>
