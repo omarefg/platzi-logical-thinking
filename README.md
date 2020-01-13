@@ -28,12 +28,12 @@ Dentro de la habilidad del pensamiento nuestra observación se conforma a partir
 
 Cuando nosotros observamos tomamos las variables de un objeto.
 
-En la siguiente [imagen](#img_1) tenemos diferentes tipos de cabello, las variables del cabello podrían ser:
+En la siguiente [imagen](#img-1) tenemos diferentes tipos de cabello, las variables del cabello podrían ser:
 
 - El color
 - 
 
-<figure id="img_1">
+<figure id="img-1">
     <img src="assets/hair.png" alt="Hair"/>
     <figcaption>Img 1 - Cabello</figcaption>
 </figure>
