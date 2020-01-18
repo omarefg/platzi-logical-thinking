@@ -194,6 +194,19 @@ q<->p = Apruebo el examen sí y sólo si estudio en Platzi
 La doble negación establece que si un enunciado está **doblemente negado**, equivaldría al enunciado **afirmado**.
 
 
+## Habilidades lógico matemáticas
+
+### Puntos, triángulos, sudoku y acertijos
+
+#### Tipos de pensamiento
+
+- Numérico
+- Espacial
+- Medida
+- Aleatorio
+- Variaciones
+
+
 # Glosario
 
 ### Objeto de observación
