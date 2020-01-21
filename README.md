@@ -206,8 +206,134 @@ La doble negación establece que si un enunciado está **doblemente negado**, eq
 - Aleatorio
 - Variaciones
 
+## Teoría de conjuntos
+
+Nos permite utilizar los conjuntos para analizar, clasificar y ordenar conocimientos desarrollando la compleja red conceptual en que almacenamos nuestro aprendizaje.
+
+### Conceptos básicos
+
+#### Elemento
+
+Cada uno de los términos que conforman el conjunto.
+
+#### Conjunto
+
+Agrupación de elementos que pertenecen a una misma categoría
+
+#### Subconjunto
+
+Una parte del conjunto que se puede sacar para formar otro conjunto. Precisamente se refiere cuando el total de un conjunto hace parte de otro más grande.
+
+##### Ejemplo
+
+Sean los personajes de Star Wars el conjunto principal, los droides serían un claro ejemplo de subgrupo.
+
+### Descripción de los conjuntos
+
+#### Por extensión
+
+Sus elementos son encerrados entre {}, separados por coma (,) y sus elementos no se repiten
+
+A={A,E,I,O,U}
+B={0,2,4,6,8,10}
+C={P,L,A,T,Z,I}
+
+#### Por comprensión
+
+Sus elementos se determinan a través de una condición que se establece entre llaves
+
+A={x/x es una vocal}
+B={x/x es un número par menor que 11}
+C={x/x es una letra de la palabra PLATZI}
+D={x/x es es un personaje de Star Wars}
+
+#### Por diagramas de venn
+
+Son regiones cerradas que nos permiten visualizar las relaciones entre los conjuntos.
+
+<figure>
+    <img id="img6" src="assets/venn-diagrams.png" alt="VennDiagram"/>
+    <figcaption>Img 6 - Diagrama de Venn</figcaption>
+</figure>
+
+### Tipos de conjuntos
+
+#### Universo (U ó Ω)
+
+Formado por todos los elementos del tema de referencia
+
+U={x/x es un animal}
+A={x/x es un mamífero}
+B={x/x es un reptil}
+
+#### Vacío ({} ó ∅)
+
+No tiene nungún elemento
+
+A = Conjunto de lo meses del año que terminan en s.
+B = Conjunto de números impares múltiplos de 2.
+C = Conjunto de números que terminan en a.
+
+#### Unitario
+
+Tiene un sólo elemento
+
+A = Conjunto de meses del año que tienen menos de 30 días.
+B = Conjunto de números pares menores a 3.
+
+#### Disjuntos
+
+Aquellos que no tienen ningún elemento que pertenezca a ambos al mismo tiempo.
+
+A = {x/x es un color}
+B = {x/x es un órgano del cuerpo humano}
+
+#### Iguales
+
+Aquellos que tienen los mismos elementos
+
+A = {a,b,c}
+B = {c,b,a}
+C = {b,c,a}
+
+#### Infinitos
+
+Aquellos cuya cantidad de elementos no se puede contar
+
+A = Conjunto de números negativos
+
+### Operaciones entre conjuntos
+
+#### Unión
+
+Es fusión de dos conjuntos
+
+A = {1,2,3}
+B = {2,3,4}
+
+A **U** B = {1,2,3,4}
+
+#### Intersección
+
+Es el resultado de los elementos que comparten dos conjuntos
+
+A = {1,2,3}
+B = {2,3,4}
+
+A **∩** B = {2,3}
+
+#### Diferencia
+
+Es el resultado de los elementos que no comparte un conjuntos con otro
+
+A = {1,2,3}
+B = {2,3,4}
+
+A \ B = {1}
 
 # Glosario
+
+## Términos
 
 ### Objeto de observación
 
@@ -221,3 +347,15 @@ Es la disciplina que estudia los métodos y principios que se usan para distingu
 
 Es el proceso de razonamiento, compuesto por proposiciones, por el cual se deriva o extrae una conclusión de una o varias premisas.
 El término Inferencia es considerado como sinónimo de: “predicción”, “derivación” o “deducción”.
+
+## Símbolos
+
+- ∈: Pertenece
+- ∉: No pertenece
+- ⊆: Es un subconjunto
+- ⊄: No es un subconjunto
+- U ó Ω: Conjunto univero
+- {} ó ∅: Conjunto vacío
+- U: Unión
+- ∩: Intersección
+- \: Diferencia
