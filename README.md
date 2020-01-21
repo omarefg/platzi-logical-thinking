@@ -331,6 +331,90 @@ B = {2,3,4}
 
 A \ B = {1}
 
+## Aritmética analógica
+
+### Recta numérica
+
+Es una recta en la que a cada uno de sus puntos le podemos asignar el valor de un número real.
+
+<figure>
+    <img id="img7" src="assets/recta-numerica.png" alt="RectaNumérica"/>
+    <figcaption>Img 7 - Recta numérica</figcaption>
+</figure>
+
+### Ley de los signos
+
+<figure>
+    <img id="img8" src="assets/ley-signos.png" alt="LeySignos"/>
+    <figcaption>Img 8 - Ley de los signos</figcaption>
+</figure>
+
+### Razones
+
+#### Razón
+
+Es una comparación entre dos o más cantidades, se puede expresar mediante una fracción.
+
+- a : b
+- a / b
+
+Y se lee "a es a b". Las razones se pueden amplificar y/o simplificar, y se mantiene la razón
+
+a -> antecedente
+<br/>
+\-
+<br/>
+b -> consecuente
+
+
+#### Ejercicio
+
+<figure>
+    <img id="img9" src="assets/ejercicio-razones.png" alt="EjercicioRazones"/>
+    <figcaption>Img 9 - Ejercicio Razones</figcaption>
+</figure>
+
+### Proporción
+
+Es la igualdad entre dos razones.
+
+<figure>
+    <img id="img10" src="assets/proporcion.png" alt="Proporcion"/>
+    <figcaption>Img 10 - Proporción</figcaption>
+</figure>
+
+El producto de los términos medios es igual al producto de los términos extremos.
+
+<figure>
+    <img id="img11" src="assets/proporcion2.png" alt="Proporcion2"/>
+    <figcaption>Img 11 - Proporción 2</figcaption>
+</figure>
+
+
+#### Ejercicio
+
+<figure>
+    <img id="img12" src="assets/ejercicio-proporcion.png" alt="EjercicioProporcion"/>
+    <figcaption>Img 12 - Ejercicio Proporción</figcaption>
+</figure>
+
+### Teorema de Thales
+
+>Si dos rectas, son cortadas por un sistema de rectas paralelas, entonces los segmentos que resultan sobre una de las dos rectas son proporcionales a los correspondientes obtenidos sobre la otra.
+
+#### Ejercicios
+
+<figure>
+    <img id="img13" src="assets/ejercicio-thales.png" alt="EjercicioThales"/>
+    <figcaption>Img 13 - Ejercicio Thales</figcaption>
+</figure>
+
+<figure>
+    <img id="img14" src="assets/ejercicio-thales2.png" alt="EjercicioThales2"/>
+    <figcaption>Img 14 - Ejercicio Thales 2</figcaption>
+</figure>
+
+
 # Glosario
 
 ## Términos
