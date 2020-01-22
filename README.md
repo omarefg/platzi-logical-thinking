@@ -415,6 +415,174 @@ El producto de los términos medios es igual al producto de los términos extrem
 </figure>
 
 
+## Series y sucesiones
+
+### Series numéricas
+
+Sucesiones ordenadas de números que guardan un vínculo entre sí
+
+- Finitas
+- Infinitas
+- Ascendetes
+- Descendentes
+
+a) 1,3,5,7 r=+2
+<br/>
+b) 10,11,40,12,13,50 r=+1
+<br/>
+c) 2000,1000,500,250 r=/1
+<br/>
+d) 40,5,8,20,4 r=/el número anterior
+<br/>
+e) 76543,2109,876 r=seguir la secuencia y restar 1 a la cifra
+
+### Series alfabéticas
+
+Sucesiones ordenadas de letras que guardan un vínculo entre sí
+
+- Ascendentes
+- Descendentes
+
+a) a,m,b,c,m,d,e,f,m,g,h,i,j r=seguir el orden alfabético, aumentar una letra añadida y luego poner m
+<br/>
+b) a,z,b,b,y,c,c,c,x,d,d,d r=en creciente ir de uno en uno y aumentar la cantidad que la letra aparece en 1, entre cada letra creciente poner una decreciente
+<br/>
+c) G-F-H-L-K-M-P-O-Q r=-1+2+4
+<br/>
+d) A-Z-C-V-F-S-J r1=+2+3+4 r2=-4-3-2
+
+### Series alfanuméricas
+
+Sucesiones ordenadas de letras y números que guardan un vínculo entre sí
+
+- Ascendentes
+- Descendentes
+
+a) a,z,1,b,y,10,c,\_,100,d,w,\_,e R.x,1000
+<br/>
+b) a,50,e,40,i,\_,\_ R.30,o
+<br/>
+c) 9a,98z,987c,9876x,\_,987654v R.98765e
+<br/>
+d) 1ab,\_,100ef,1000GH,10000ij,100000KL R.10CD
+<br/>
+e) A,8,C,6,F,4,\_,\_ R.J,2
+
+### Series de figuras
+
+Sucesiones ordenadas de figuras que guardan un vínculo entre sí. Poseen uno o más patrones para establecer la siguiente figura.
+
+<figure>
+    <img id="img15" src="assets/figures-series.png" alt="FiguresSeries"/>
+    <figcaption>Img 15 - Series de figuras</figcaption>
+</figure>
+
+<figure>
+    <img id="img16" src="assets/figures-series2.png" alt="FiguresSeries2"/>
+    <figcaption>Img 16 - Series de figuras 2</figcaption>
+</figure>
+
+## Diagramas de flujo
+
+Representan gráficamente la secuencia de rutinas simples. Describe un proceso, sistema o algoritmo informático
+
+### Toma de decisiones
+
+Los diagramas de flujo ofrecen una descripción visual de las actividades implicadas en un proceso.
+
+Muestra la relación secuencial entre ellas, facilitando la rápida comprensión de cada actividad y su relación con las demás, el flujo de la información y los materiales, las ramas en el proceso, la existencia de bucles repetitivos, el número de pasos del proceso, facilitan también la selección de decisión.
+
+<figure>
+    <img id="img17" src="assets/flow-diagram-symbols.png" alt="FlowDiagram"/>
+    <figcaption>Img 17 - Diagrama de flujo, simbología</figcaption>
+</figure>
+
+### ¿Cómo hacer un diagrama de flujo?
+
+- Define tu propósito y alcance
+- Identifica las tareas en orden cronológico
+- Organizalos por tipo y figura
+- Crea el diagrama de flujo
+- Confirma el diagrama
+
+<figure>
+    <img id="img18" src="assets/flow-diagram-example.png" alt="FlowDiagramExample"/>
+    <figcaption>Img 18 - Diagrama de flujo, ejemplo</figcaption>
+</figure>
+
+### Algoritmos en diagramas
+
+#### Los diagramas de flujo pueden
+
+- Explicar la lógica de un programa
+- Organizar una perspectiva general antes de codificar
+- Demostrar organización en el código
+- Mostrar la estructura de un sitio web o aplicación
+- Ser útiles para explicar a los demás nuestros proyectos
+
+<figure>
+    <img id="img19" src="assets/flow-diagram-example2.png" alt="FlowDiagramExample2"/>
+    <figcaption>Img 19 - Diagrama de flujo, ejemplo 2</figcaption>
+</figure>
+
+### Estructuras de control y palabras reservadas
+
+Representan gráficamente la secuencia que siguen los diagramas de flujo
+
+#### Estructura de control scuencial
+
+Instrucciones consecutivas que se van ejecutando una después de la otra
+
+<figure>
+    <img id="img20" src="assets/estructura-control-secuencial.png" alt="SequencialControlStructure"/>
+    <figcaption>Img 20 - Estructura de control secuencial</figcaption>
+</figure>
+
+#### Estructura de selección simple
+
+Si se cumple alguna condición se realizan algunas acciones mientras que si no se cumple, no se realizan dichas acciones.
+
+<figure>
+    <img id="img21" src="assets/estructura-seleccion-simple.png" alt="SimpleSelectionStructure"/>
+    <figcaption>Img 21 - Estructura de selección simple</figcaption>
+</figure>
+
+#### Estructura de control de selección doble
+
+Si es V la condición, realiza un bloque de acciones; y si es F, hace otro.
+
+<figure>
+    <img id="img22" src="assets/estructura-seleccion-doble.png" alt="DoubleSelectionStructure"/>
+    <figcaption>Img 22 - Estructura de selección doble</figcaption>
+</figure>
+
+#### Estructura de control de repetición mientras
+
+Es un ciclo que repite un bloque de instrucciones mientras la condición es verdadera.
+
+<figure>
+    <img id="img23" src="assets/estructura-while.png" alt="WhileStructure"/>
+    <figcaption>Img 23 - Estructura de control de repetición mientras</figcaption>
+</figure>
+
+#### Estructura de control hacer / mientras
+
+Es un ciclo que repite un bloque de instrucciones mientras la condición es verdadera.
+
+<figure>
+    <img id="img24" src="assets/estructura-do-while.png" alt="DoWhileStructure"/>
+    <figcaption>Img 24 - Estructura de control hacer / mientras</figcaption>
+</figure>
+
+#### Estructura de control repetición para / hasta
+
+Se utiliza para repetir un conjunto de acciones hasta que se deje de cumplir una condición
+
+<figure>
+    <img id="img25" src="assets/estructura-for.png" alt="ForStructure"/>
+    <figcaption>Img 25 - Estructura de control repetición para / hasta</figcaption>
+</figure>
+
 # Glosario
 
 ## Términos
@@ -443,3 +611,7 @@ El término Inferencia es considerado como sinónimo de: “predicción”, “d
 - U: Unión
 - ∩: Intersección
 - \: Diferencia
+- \>: Serie finita
+- ∞: Serie infinita
+- ↗: Serie ascendente
+- ↘: Serie descendente
